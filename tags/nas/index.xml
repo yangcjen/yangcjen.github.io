@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NAS on CJ's Blog</title><link>https://yangcj.cc/tags/nas/</link><description>Recent content in NAS on CJ's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Yang Ching-Jen</copyright><lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yangcj.cc/tags/nas/index.xml" rel="self" type="application/rss+xml"/><item><title>My Broken NAS in 2026</title><link>https://yangcj.cc/p/my-broken-nas-in-2026/</link><pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate><guid>https://yangcj.cc/p/my-broken-nas-in-2026/</guid><description>&lt;img src="https://yangcj.cc/p/my-broken-nas-in-2026/banner.jpg" alt="Featured image of post My Broken NAS in 2026" /&gt;&lt;p&gt;Oh my God. I cannot believe that my first article is about my broken NAS in 2026. When I was still living in my hometown, I bought a Synology NAS. Synology NAS devices are very convenient and stable. They offer many applications that allow me to access my documents and photos, and even build virtual machines from anywhere. After that, I canceled all of my cloud storage subscriptions.&lt;/p&gt;
+&lt;p&gt;Back then, I bought a 4‑bay NAS and used RAID 5 to protect my data. If one hard disk failed, I could simply replace it and the system would automatically rebuild the data. But for the first time, the failure wasn’t the hard disk — it was the machine itself. So I just ended up buying a new one.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yangcj.cc/p/my-broken-nas-in-2026/DS918&amp;#43;.JPEG"
+width="1280"
+height="1707"
+srcset="https://yangcj.cc/p/my-broken-nas-in-2026/DS918&amp;#43;_hu_e45d925c22c3e00a.JPEG 480w, https://yangcj.cc/p/my-broken-nas-in-2026/DS918&amp;#43;_hu_bf9e30c94616e11b.JPEG 1024w"
+loading="lazy"
+alt="DS918&amp;#43;"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Fortunately, I’m used to setting up servers with my retired PCs, and I also have scheduled backups for my NAS data. When I found it was broken, I immediately backed up my backup NAS data from the server to another hard disk, and then I bought a new one. This time, I decided to go with a 2‑bay NAS because I don’t need that much storage space.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://yangcj.cc/p/my-broken-nas-in-2026/DS225&amp;#43;.JPEG"
+width="1280"
+height="1707"
+srcset="https://yangcj.cc/p/my-broken-nas-in-2026/DS225&amp;#43;_hu_acedd846afb0c44e.JPEG 480w, https://yangcj.cc/p/my-broken-nas-in-2026/DS225&amp;#43;_hu_96276a0815afd364.JPEG 1024w"
+loading="lazy"
+alt="DS225&amp;#43;"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Now all my NAS data has been recovered, and the new NAS is running very smoothly. I can use it just like before, and I hope it will last for a long time.&lt;/p&gt;</description></item></channel></rss>
